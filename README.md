@@ -1,4 +1,4 @@
-In this assignment let's build a **Letters Calculator** by applying the concepts we have learned till now.
+In this assignment let's build a **Letters Calculator** 
 
 ### Refer to image below:
 
@@ -30,7 +30,7 @@ The app must have the following functionalities
 
 - When the user enters characters in the input box then the letters count should be displayed to the user.
 
-- Your task is to complete the implementation of
+- important files
   - `src/components/LettersCalculator/index.js`
   - `src/components/LettersCalculator/index.css`
 
